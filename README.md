@@ -1,3 +1,4 @@
+[![Braydon's GitHub Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHReV9OzXPL1D-8AOFywGAobYQsp1HDLxG3JcVxYBK&s)](https://kids.isupdate.com)
 - 👋 Hi, I’m @Aiesh-CoderHub
 - 👀 I’m interested in Coding, Android Dev, Programming
 - 🌱 I’m currently learning Web Dev, Machine Learning
