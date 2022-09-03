@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](https://w0.peakpx.com/wallpaper/365/48/HD-wallpaper-think-twice-code-once-code-computer-programming-syntax.jpg)](https://kids.isupdate.com)
+[![GitHub Banner](https://w0.peakpx.com/wallpaper/365/48/HD-wallpaper-think-twice-code-once-code-computer-programming-syntax.jpg)](https://github.com/Aiesh-CoderHub)
 - 👋 Hi, I’m @Aiesh-CoderHub
 - 👀 I’m interested in Coding, Android Dev, Programming
 - 🌱 I’m currently learning Machine Learning
