@@ -12,4 +12,4 @@ About Coder's Hub (My Channel):-
 Coder's Hub is a place where you can learn various concept related to programming for free. Coder's Hub is a beginner friendly place for you to start with your coding journey.  I will hold your hands and walk you through various concepts of programming in a very friendly manner. Make sure you subscribe to this channel for more free programming tutorials.
 
 ## Production Tools That I use:
-[<img align='left' alt='vs code' width='26px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'/>][VS Code]
+[<img align='left' alt='vs code' width='26px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'>][VS Code]
